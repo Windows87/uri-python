@@ -1,11 +1,11 @@
 # URI Python
-## 57 Problems Solved
+## 60 Problems Solved
 
-#### 13/05/2019 [17]
+#### 13/05/2019 [20]
   - 1061 (Python 3.6)
   - 1064 to 1075 [12] (Python 2.7 [1064, 1074] - Python 3.6 [~])
   - 1078 and 1080 [3] (Python 2.7 [1079] - Python 3.6 [~])
-  - 1094 (Python 2.7)
+  - 1094 to 1097 [4] (Python 2.7 [1094] - Python 3.6 [~])
 
 #### 12/05/2019 [20]
   - 1021 (Python 2.6)
