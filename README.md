@@ -1,5 +1,20 @@
 # URI Python
-## 100 Problems Solved
+## 120 Problems Solved
+
+#### 17/05/2019 [20]
+  - 1051 (Python 2.7)
+  - 1149 (Python 2.7)
+  - 1164 (Python 2.7)
+  - 1179 (Python 2.7)
+  - 1183 to 1188 [6] (Python 2.7)
+  - 1234 (Python 2.7)
+  - 1564 (Python 2.7)
+  - 1589 (Python 2.7)
+  - 1759 (Python 2.7)
+  - 1789 (Python 2.7)
+  - 1864 to 1866 [3] (Python 2.7)
+  - 1914 (Python 2.7)
+  - 1924 (Python 2.7)
 
 #### 16/05/2019 [20]
   - 1150 and 1151 [2] (Python 2.7)
