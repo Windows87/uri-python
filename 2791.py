@@ -1,0 +1,1 @@
+print raw_input().split(' ').index('1') + 1
