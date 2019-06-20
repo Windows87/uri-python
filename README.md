@@ -1,13 +1,24 @@
 # URI Python
-## 263 Problems Solved
+## 280 Problems Solved
 
-#### Waiting for Response [4]
+#### Waiting for Response [5]
   - 1103
   - 1243
   - 1273
   - 1332
   - 1768
+  - 2311
   - 2786
+
+#### 20/06/2019 [17]
+  - 1962 (Python 2.7)
+  - 2221 (Python 2.7)
+  - 2708 (Python 2.7)
+  - 2721 (Python 2.7)
+  - 2747 to 2756 [10] (Python 2.7)
+  - 2762 (Python 2.7)
+  - 2764 (Python 2.7)
+  - 2779 (Python 2.7)
 
 #### 19/06/2019 [10]
   - 1547 (Python 2.7)
