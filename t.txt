@@ -1,34 +1,20 @@
-11
-Gabriela
-2.0
-0.0 0.0 0.0 0.0 0.0 0.0 0.0
-Gabriel
-2.0
-1.0 1.0 1.0 1.0 1.0 1.0 1.0
-Gabr
-1.5
-1.0 1.0 1.0 2.0 2.0 2.0 2.0
-Gab
-2.5
-1.0 1.0 2.0 2.0 3.0 3.0 4.0
-G
-3.0
-1.0 2.0 3.0 4.0 5.0 6.0 7.0
-Adelaide
-2.2
-5.0 5.0 5.1 5.2 5.3 5.4 5.5
-Adel
-2.9
-6.0 6.5 7.0 7.5 8.0 8.5 8.5
-Ad
-2.9
-6.0 6.5 7.0 7.5 8.0 9.0 9.0
-Catarina
-1.9
-1.0 2.0 4.0 4.0 3.0 2.0 1.0
-Catar
-1.5
-7.0 7.0 5.0 4.0 3.0 1.0 1.0
-Cat
-1.2
-1.0 2.0 1.0 2.0 1.0 2.0 1.0
+5
+cachorro
+vira vira do caritba
+vira
+
+vanessa
+pitbola
+pit pit
+
+cachorro
+isword isword
+is is
+
+cachorro
+carapi cara
+cara na ta cata
+
+cachorro
+a b c d e
+a b c d e
