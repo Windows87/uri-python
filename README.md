@@ -1,5 +1,5 @@
 # URI Python
-## 292 Problems Solved
+## 294 Problems Solved
 
 #### Waiting for Response [5]
   - 1103
@@ -9,6 +9,10 @@
   - 1768
   - 2311
   - 2786
+
+#### 08/08/2019 [2]
+  - 2812 (Python 2.7)
+  - 2850 (Python 2.7)
 
 #### 23/06/2019 [3]
   - 1196 (Python 2.7)
